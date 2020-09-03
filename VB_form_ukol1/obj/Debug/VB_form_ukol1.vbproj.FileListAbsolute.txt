@@ -1,0 +1,12 @@
+C:\Programming\VB_formulare\VB_form_ukol1\bin\Debug\VB_form_ukol1.exe.config
+C:\Programming\VB_formulare\VB_form_ukol1\bin\Debug\VB_form_ukol1.exe
+C:\Programming\VB_formulare\VB_form_ukol1\bin\Debug\VB_form_ukol1.pdb
+C:\Programming\VB_formulare\VB_form_ukol1\bin\Debug\VB_form_ukol1.xml
+C:\Programming\VB_formulare\VB_form_ukol1\obj\Debug\VB_form_ukol1.vbprojAssemblyReference.cache
+C:\Programming\VB_formulare\VB_form_ukol1\obj\Debug\VB_form_ukol1.frMain.resources
+C:\Programming\VB_formulare\VB_form_ukol1\obj\Debug\VB_form_ukol1.Resources.resources
+C:\Programming\VB_formulare\VB_form_ukol1\obj\Debug\VB_form_ukol1.vbproj.GenerateResource.cache
+C:\Programming\VB_formulare\VB_form_ukol1\obj\Debug\VB_form_ukol1.vbproj.CoreCompileInputs.cache
+C:\Programming\VB_formulare\VB_form_ukol1\obj\Debug\VB_form_ukol1.exe
+C:\Programming\VB_formulare\VB_form_ukol1\obj\Debug\VB_form_ukol1.xml
+C:\Programming\VB_formulare\VB_form_ukol1\obj\Debug\VB_form_ukol1.pdb

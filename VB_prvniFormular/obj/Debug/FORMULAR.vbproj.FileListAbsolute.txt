@@ -1,0 +1,23 @@
+C:\Kurs\Visual Basic\FORMULAR\bin\Debug\FORMULAR.exe.config
+C:\Kurs\Visual Basic\FORMULAR\bin\Debug\FORMULAR.exe
+C:\Kurs\Visual Basic\FORMULAR\bin\Debug\FORMULAR.pdb
+C:\Kurs\Visual Basic\FORMULAR\bin\Debug\FORMULAR.xml
+C:\Kurs\Visual Basic\FORMULAR\obj\Debug\FORMULAR.vbprojAssemblyReference.cache
+C:\Kurs\Visual Basic\FORMULAR\obj\Debug\FORMULAR.frMain.resources
+C:\Kurs\Visual Basic\FORMULAR\obj\Debug\FORMULAR.Resources.resources
+C:\Kurs\Visual Basic\FORMULAR\obj\Debug\FORMULAR.vbproj.GenerateResource.cache
+C:\Kurs\Visual Basic\FORMULAR\obj\Debug\FORMULAR.exe
+C:\Kurs\Visual Basic\FORMULAR\obj\Debug\FORMULAR.xml
+C:\Kurs\Visual Basic\FORMULAR\obj\Debug\FORMULAR.pdb
+C:\Programming\FORMULAR\bin\Debug\FORMULAR.exe.config
+C:\Programming\FORMULAR\bin\Debug\FORMULAR.exe
+C:\Programming\FORMULAR\bin\Debug\FORMULAR.pdb
+C:\Programming\FORMULAR\bin\Debug\FORMULAR.xml
+C:\Programming\FORMULAR\obj\Debug\FORMULAR.vbprojAssemblyReference.cache
+C:\Programming\FORMULAR\obj\Debug\FORMULAR.frMain.resources
+C:\Programming\FORMULAR\obj\Debug\FORMULAR.Resources.resources
+C:\Programming\FORMULAR\obj\Debug\FORMULAR.vbproj.GenerateResource.cache
+C:\Programming\FORMULAR\obj\Debug\FORMULAR.vbproj.CoreCompileInputs.cache
+C:\Programming\FORMULAR\obj\Debug\FORMULAR.exe
+C:\Programming\FORMULAR\obj\Debug\FORMULAR.xml
+C:\Programming\FORMULAR\obj\Debug\FORMULAR.pdb

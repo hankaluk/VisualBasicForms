@@ -1,0 +1,23 @@
+C:\Kurs\Visual Basic\VB_zk_form\bin\Debug\VB_zk_form.exe.config
+C:\Kurs\Visual Basic\VB_zk_form\bin\Debug\VB_zk_form.exe
+C:\Kurs\Visual Basic\VB_zk_form\bin\Debug\VB_zk_form.pdb
+C:\Kurs\Visual Basic\VB_zk_form\bin\Debug\VB_zk_form.xml
+C:\Kurs\Visual Basic\VB_zk_form\obj\Debug\VB_zk_form.vbprojAssemblyReference.cache
+C:\Kurs\Visual Basic\VB_zk_form\obj\Debug\VB_zk_form.frMain.resources
+C:\Kurs\Visual Basic\VB_zk_form\obj\Debug\VB_zk_form.Resources.resources
+C:\Kurs\Visual Basic\VB_zk_form\obj\Debug\VB_zk_form.vbproj.GenerateResource.cache
+C:\Kurs\Visual Basic\VB_zk_form\obj\Debug\VB_zk_form.exe
+C:\Kurs\Visual Basic\VB_zk_form\obj\Debug\VB_zk_form.xml
+C:\Kurs\Visual Basic\VB_zk_form\obj\Debug\VB_zk_form.pdb
+C:\Programming\VB_formulare\VB_zk_form\bin\Debug\VB_zk_form.exe.config
+C:\Programming\VB_formulare\VB_zk_form\bin\Debug\VB_zk_form.exe
+C:\Programming\VB_formulare\VB_zk_form\bin\Debug\VB_zk_form.pdb
+C:\Programming\VB_formulare\VB_zk_form\bin\Debug\VB_zk_form.xml
+C:\Programming\VB_formulare\VB_zk_form\obj\Debug\VB_zk_form.vbprojAssemblyReference.cache
+C:\Programming\VB_formulare\VB_zk_form\obj\Debug\VB_zk_form.frMain.resources
+C:\Programming\VB_formulare\VB_zk_form\obj\Debug\VB_zk_form.Resources.resources
+C:\Programming\VB_formulare\VB_zk_form\obj\Debug\VB_zk_form.vbproj.GenerateResource.cache
+C:\Programming\VB_formulare\VB_zk_form\obj\Debug\VB_zk_form.vbproj.CoreCompileInputs.cache
+C:\Programming\VB_formulare\VB_zk_form\obj\Debug\VB_zk_form.exe
+C:\Programming\VB_formulare\VB_zk_form\obj\Debug\VB_zk_form.xml
+C:\Programming\VB_formulare\VB_zk_form\obj\Debug\VB_zk_form.pdb

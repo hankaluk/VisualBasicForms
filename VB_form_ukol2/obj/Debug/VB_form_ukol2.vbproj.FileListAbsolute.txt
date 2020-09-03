@@ -1,0 +1,12 @@
+C:\Programming\VB_formulare\VB_form_ukol2\bin\Debug\VB_form_ukol2.exe.config
+C:\Programming\VB_formulare\VB_form_ukol2\bin\Debug\VB_form_ukol2.exe
+C:\Programming\VB_formulare\VB_form_ukol2\bin\Debug\VB_form_ukol2.pdb
+C:\Programming\VB_formulare\VB_form_ukol2\bin\Debug\VB_form_ukol2.xml
+C:\Programming\VB_formulare\VB_form_ukol2\obj\Debug\VB_form_ukol2.vbprojAssemblyReference.cache
+C:\Programming\VB_formulare\VB_form_ukol2\obj\Debug\VB_form_ukol2.Resources.resources
+C:\Programming\VB_formulare\VB_form_ukol2\obj\Debug\VB_form_ukol2.vbproj.GenerateResource.cache
+C:\Programming\VB_formulare\VB_form_ukol2\obj\Debug\VB_form_ukol2.vbproj.CoreCompileInputs.cache
+C:\Programming\VB_formulare\VB_form_ukol2\obj\Debug\VB_form_ukol2.exe
+C:\Programming\VB_formulare\VB_form_ukol2\obj\Debug\VB_form_ukol2.xml
+C:\Programming\VB_formulare\VB_form_ukol2\obj\Debug\VB_form_ukol2.pdb
+C:\Programming\VB_formulare\VB_form_ukol2\obj\Debug\VB_form_ukol2.frMainForm.resources
